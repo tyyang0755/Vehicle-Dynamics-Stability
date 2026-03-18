@@ -31,7 +31,7 @@ x2ref(idx_step_down:end) = 0;
 
 %% Plant (replace by linmod) 
 % Mass in kg
-m1 = 1;
+m1 = 1.3;
 m2 = 1.2;
 
 % Spring constants 
